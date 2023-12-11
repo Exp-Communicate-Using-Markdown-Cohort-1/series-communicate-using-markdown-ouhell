@@ -14,3 +14,6 @@ if (person.age < 5) {
      cupcake.attack(person);
 }
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
